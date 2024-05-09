@@ -25,3 +25,6 @@ Customization
 Conclusion
 ----------------------------------
 Raspberry Pi Hole is an effective solution for network-wide ad-blocking with added privacy and security. It is easy to install and configure and works on all devices connected to your network.
+
+
+https://connortumbleson.com/content/images/2024/03/pi-dashboard.png
