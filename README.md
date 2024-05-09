@@ -1,5 +1,5 @@
 Raspberry Pi Hole
-
+-------------------
 Raspberry Pi Hole is an open-source network-level ad-blocking software that runs on a Raspberry Pi. This software works by acting as a DNS sinkhole, blocking all unwanted and malicious domains from being accessed by devices on your network. It is capable of blocking ads, trackers, and other undesirable content on all devices connected to your network, thus improving the overall browsing experience and privacy. Raspberry Pi Hole is easy to install, and users can customize the blocking lists as per their requirements.
 
 Requirements
@@ -18,8 +18,10 @@ Installation
 - Follow the prompts for installation.
 - After installation, you can access the control panel by typing in the IP address of your Raspberry Pi in a web browser.
 
-- Customization
-On your web browser, you can log in to the Pi Hole dashboard (http://pi.hole/admin) to customize blocking and other settings. You can also add, whitelist, and blacklist domains as per your requirements.
+Customization
+----------------------------------
+- On your web browser, you can log in to the Pi Hole dashboard (http://pi.hole/admin) to customize blocking and other settings. You can also add, whitelist, and blacklist domains as per your requirements.
 
-- Conclusion
+Conclusion
+----------------------------------
 Raspberry Pi Hole is an effective solution for network-wide ad-blocking with added privacy and security. It is easy to install and configure and works on all devices connected to your network.
