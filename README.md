@@ -28,3 +28,4 @@ Raspberry Pi Hole is an effective solution for network-wide ad-blocking with add
 
 
 ![Raspberry Pi Hole dashboard screenshot](https://connortumbleson.com/content/images/2024/03/pi-dashboard.png)
+![Raspberry Pi Top View](https://cdn-learn.adafruit.com/assets/assets/000/017/949/medium800/raspberry_pi_top.jpg?1405287201)
