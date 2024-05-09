@@ -8,13 +8,13 @@ Raspberry Pi Hole is an open-source network-level ad-blocking software that runs
   Ethernet cable
   MicroSD card (8GB or higher)
 
-- Installation
-  Download and flash Raspberry Pi OS on your microSD card.
-  Connect your Raspberry Pi to your network using Ethernet cable.
-  SSH into your Raspberry Pi.
-  Run the command curl -sSL https://install.pi-hole.net | bash.
-  Follow the prompts for installation.
-  After installation, you can access the control panel by typing in the IP address of your Raspberry Pi in a web browser.
+Installation
+- Download and flash Raspberry Pi OS on your microSD card.
+- Connect your Raspberry Pi to your network using Ethernet cable.
+- SSH into your Raspberry Pi.
+- Run the command curl -sSL https://install.pi-hole.net | bash.
+- Follow the prompts for installation.
+- After installation, you can access the control panel by typing in the IP address of your Raspberry Pi in a web browser.
 
 - Customization
 On your web browser, you can log in to the Pi Hole dashboard (http://pi.hole/admin) to customize blocking and other settings. You can also add, whitelist, and blacklist domains as per your requirements.
