@@ -1,0 +1,13 @@
+To install Pi-hole on Raspberry Pi, follow these steps:
+------------------------------------------------------------------------------------------------------------------
+1. Update the Raspberry Pi software by running the following command:
+2. sudo apt-get update && sudo apt-get upgrade -y
+3. Install Pi-hole by running the following command:
+    curl -sSL https://install.pi-hole.net | bash
+4. Follow the prompts during installation to configure your network settings.
+
+- Access the Pi-hole web interface by entering the IP address of your Raspberry Pi into a web browser.
+
+- From the web interface, you can configure your Pi-hole settings and add custom blocklists.
+
+- That's it! Your Raspberry Pi is now running Pi-hole and blocking ads and other unwanted content on your network.
